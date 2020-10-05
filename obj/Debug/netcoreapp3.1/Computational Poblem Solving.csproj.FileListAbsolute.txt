@@ -1,0 +1,13 @@
+C:\Users\prith\source\repos\Computational Poblem Solving\bin\Debug\netcoreapp3.1\Computational Poblem Solving.exe
+C:\Users\prith\source\repos\Computational Poblem Solving\bin\Debug\netcoreapp3.1\Computational Poblem Solving.deps.json
+C:\Users\prith\source\repos\Computational Poblem Solving\bin\Debug\netcoreapp3.1\Computational Poblem Solving.runtimeconfig.json
+C:\Users\prith\source\repos\Computational Poblem Solving\bin\Debug\netcoreapp3.1\Computational Poblem Solving.runtimeconfig.dev.json
+C:\Users\prith\source\repos\Computational Poblem Solving\bin\Debug\netcoreapp3.1\Computational Poblem Solving.dll
+C:\Users\prith\source\repos\Computational Poblem Solving\bin\Debug\netcoreapp3.1\Computational Poblem Solving.pdb
+C:\Users\prith\source\repos\Computational Poblem Solving\obj\Debug\netcoreapp3.1\Computational Poblem Solving.csprojAssemblyReference.cache
+C:\Users\prith\source\repos\Computational Poblem Solving\obj\Debug\netcoreapp3.1\Computational Poblem Solving.AssemblyInfoInputs.cache
+C:\Users\prith\source\repos\Computational Poblem Solving\obj\Debug\netcoreapp3.1\Computational Poblem Solving.AssemblyInfo.cs
+C:\Users\prith\source\repos\Computational Poblem Solving\obj\Debug\netcoreapp3.1\Computational Poblem Solving.csproj.CoreCompileInputs.cache
+C:\Users\prith\source\repos\Computational Poblem Solving\obj\Debug\netcoreapp3.1\Computational Poblem Solving.dll
+C:\Users\prith\source\repos\Computational Poblem Solving\obj\Debug\netcoreapp3.1\Computational Poblem Solving.pdb
+C:\Users\prith\source\repos\Computational Poblem Solving\obj\Debug\netcoreapp3.1\Computational Poblem Solving.genruntimeconfig.cache
